@@ -3,6 +3,10 @@
 ## Overview
 A simple and intuitive note-taking app that allows users to add, edit, delete, and categorize notes. Notes can also be color-coded.
 
+## Demo Video
+Watch the app in action:
+[Authentication Task Demo](https://drive.google.com/file/d/1qQM1O_gQIXC5No40WG5VHhmaG5IgXDat/view?usp=sharing)
+
 ## Features
 - Create, edit, and delete notes
 - Categorize notes by color
@@ -14,26 +18,3 @@ A simple and intuitive note-taking app that allows users to add, edit, delete, a
 - **Hive**: For local storage of notes.
 - **Bloc**: For state management.
 
-## Installation
-1. Clone the repository: 
-    ```
-    git clone https://github.com/SamirYousri/Note-App.git
-    ```
-2. Navigate to the project directory:
-    ```
-    cd Note-App
-    ```
-3. Install dependencies:
-    ```
-    flutter pub get
-    ```
-4. Run the app:
-    ```
-    flutter run
-    ```
-
-## Screenshots
-(Add screenshots of your app here)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
